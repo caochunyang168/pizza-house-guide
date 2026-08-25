@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://caochunyang168.github.io/pizza-house-guide/sitemap.xml
+Sitemap: https://pizza-house-guide-rey89w50h-caochunyang168.vercel.app/sitemap.xml
